@@ -1,1 +1,2 @@
 ihdjThis is a simple file which is only created for the checking the status of git in dev
+I am adding the same line to check for merge confilicts
