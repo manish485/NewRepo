@@ -1,0 +1,500 @@
+   52  ls
+   53  git rm file1.txt
+   54  git status 
+   55  git commit -m " I am commiting two file
+   56  git status
+   57  git commit -m " I am commiting the two file from local stasging to  local git folder"
+   58  git status
+   59  pwd
+   60  ls
+   61  clear
+   62  clear
+   63  unse
+   64  git status
+   65  git commit -m " I am commiting a new file in .sh formate"
+   66  clear
+   67  git status
+   68  ls
+   69  git push origin master
+   70  git push origin master
+   71  git push origin master
+   72  pwd
+   73  cd 
+   74  ls
+   75  pwd
+   76  cd mydemo
+   77  ls
+   78  clear
+   79  ls -l
+   80  chmod 777 mysecond-git-repo-demo
+   81  ls -l
+   82  exit
+   83  ls
+   84  history
+   85  history >> file3.txt
+   86  ls
+   87  cat file3.txt
+   88  clear
+   89  pwd
+   90  ls
+   91  cd mydemo
+   92  ls
+   93  cd mygit-demo
+   94  ls
+   95  touch myfile.txt
+   96  git status
+   97  git add myfile.txt
+   98  git status
+   99  git commit -m "Making changes for the new file"
+  100  git status
+  101  git push origin master
+  102  pwd
+  103  cd 
+  104  pwd
+  105  git unzip ~\Downloads\initializr-verekia-4.0.zip
+  106   unzip ~\Downloads\initializr-verekia-4.0.zip
+  107   unzip C:\\Downloads\initializr-verekia-4.0.zip
+  108   unzip C://Downloads/initializr-verekia-4.0.zip
+  109   unzip ~/Downloads/initializr-verekia-4.0.zip
+  110  ls
+  111  cd 
+  112  ls
+  113  cd ..
+  114  pwd
+  115  ls
+  116  cd home
+  117  ls
+  118  cd..
+  119  cd ..
+  120  ls
+  121  cd usr
+  122  ls
+  123  cd home
+  124  ls
+  125  cd ..
+  126  pwd
+  127  cd home
+  128  ls
+  129   unzip ~/Downloads/initializr-verekia-4.0.zip
+  130  cd mydemo
+  131   unzip ~/Downloads/initializr-verekia-4.0.zip
+  132  unzip myfiles/Downlods/initializr-verekia-4.0.zip
+  133  unzip myfiles/Downlods/initializr-verekia-4.0.zip
+  134  unzip ~/myfiles/Downlods/initializr-verekia-4.0.zip
+  135  unzip chrome://Downlods/initializr-verekia-4.0.zip
+  136  unzip ~chrome://Downlods/initializr-verekia-4.0.zip
+  137  clear
+  138  unzip C://Downlods/initializr-verekia-4.0.zip
+  139  unzip C:/Downlods/initializr-verekia-4.0.zip
+  140  unzip C:Downlods/initializr-verekia-4.0.zip
+  141  unzip C://my files/Downlods/initializr-verekia-4.0.zip
+  142  unzip C://myfiles/Downlods/initializr-verekia-4.0.zip
+  143  pwd
+  144  cd .
+  145  pwd
+  146  cd ..
+  147  pwd
+  148  clear
+  149  git clone https://github.com/manish458/starter-web.git
+  150  git clone https://github.com/manish485/starter-web.git
+  151  ls
+  152  get status
+  153  git status
+  154  cd starter-web
+  155  ls
+  156  git status
+  157  clear
+  158  ls -al
+  159  cd .git
+  160  ls
+  161  cat head
+  162  cat Head
+  163  cat HEAD
+  164  cat config
+  165  cd logs
+  166  ls
+  167   cd refs
+  168  ls
+  169   cd remotes
+  170  ls
+  171  ls -al
+  172  cd origin
+  173  ls
+  174  cat HEAD
+  175  cd ..
+  176  pwd
+  177  cd ../..
+  178  pwd
+  179  cd ~
+  180  ls
+  181  pwd
+  182  cd mydemo
+  183  ls
+  184  cd mygit-demo
+  185  ls
+  186  vi manish
+  187  ls
+  188  mv mansih mansish.sh
+  189  mv manish manish.sh
+  190  ls
+  191  git status
+  192  git commit -am "I am adding and commiting the chnages ain a single step"
+  193  git add manish.sh
+  194  git status
+  195  git commit -am "I am adding and commiting the chnages ain a single step"
+  196  git pull origin master
+  197  git push origin master
+  198  git pull origin master
+  199  clear
+  200  git ls -fils
+  201  git ls -files
+  202  ls-files
+  203  ls -files
+  204  git ls-files
+  205  pwd
+  206  cd ~
+  207  git ls-files
+  208  ls
+  209  cd mydemo
+  210  ls
+  211  git ls-files
+  212  ls
+  213  cd mygit-demo
+  214  ls -al
+  215  echo "This is a new file and We are checking the commit history for the file">>newFile.txt
+  216  ls
+  217  clear
+  218  clear
+  219  git status
+  220  git add newFile.txt
+  221  git status
+  222  cat newFile.txt
+  223  echo "This Change is for checking the file in both in workign directory as well as Staging directory">>newFile.txt
+  224  cat newFile.txt
+  225  git status
+  226  git commit -m "We are commiting the first Line changes'
+  227  git commit -m "We are commiting the first Line changes"
+  228  git statys
+  229  git status
+  230  ls -l
+  231  cat newFile.txt
+  232  git status
+  233  git push origin master
+  234  git pull origin master
+  235  git push origin master
+  236  cat newFile.txt
+  237  clear
+  238  pwd
+  239  cd ../..
+  240  ls
+  241  pwd
+  242  clear
+  243  pwd
+  244  ls
+  245  git version
+  246  git clone https://github.com/manish485/myPracticsDirectory.git
+  247  ls 
+  248   cd myPracticsDirectory
+  249  ls
+  250  pwd
+  251  ls
+  252  cat myfile
+  253  cat myFile
+  254  git status
+  255  pwd
+  256  mkdir mydir
+  257  cd mydir
+  258  pwd
+  259  touch f1.txt f2.txt
+  260  git status
+  261  git add f2.txt
+  262  git add f2.txt
+  263  git status
+  264  git add f1.txt
+  265  git status
+  266  clear
+  267  git post origin master
+  268  git push origin master
+  269  git status
+  270  git commit -m "I am making the changes for two files"
+  271  git push origin master
+  272  clear
+  273  git log -commit
+  274  git log
+  275  git log --commit --abbrivate 
+  276  git log --since = "30 days ago"
+  277  git log --since="30 days ago"
+  278  git log --oneliner--graph
+  279  ls
+  280    clear
+  281  pwd
+  282  cd ../..
+  283  ls
+  284  cd mydemo
+  285  ls
+  286  cd mygit-demo
+  287  ls
+  288  ls -l
+  289  git log -- manish1
+  290  git log -- myfile.txt
+  291  git log -- newfile.txt
+  292  git log -- newFile.txt
+  293  ls
+  294  pwd
+  295  cd ../../
+  296  ls
+  297  cd myPracticsDirectory
+  298  pwd
+  299  clear
+  300  pwd
+  301  git log
+  302  git log --all --graph --decorate --oneline
+  303  git config
+  304  clear
+  305  git config --global alias.hist "log --all --graph --decorate --oneline"
+  306  git hist
+  307  cd ..
+  308  ls
+  309  git hist
+  310  cd ..
+  311  ls
+  312  cd home
+  313  ls
+  314  cd mydemo
+  315  git hist
+  316  ls
+  317  cd mygit-demo
+  318  ls
+  319  git hist
+  320  cd ../../
+  321  ls
+  322  pwd
+  323  ls
+  324  cd myPracticsDirectory
+  325  ls
+  326  get date
+  327  git date
+  328  git status
+  329  git status
+  330  git help
+  331  git show
+  332  git srarus
+  333  git status
+  334  git branch
+  335  git help
+  336  echo "This is my first File">>myfile1.txt
+  337  ls
+  338  cat myfile1.txt
+  339  grep "This" ./
+  340  grep "This" ./*
+  341  clear
+  342  ls-a
+  343  ls -a
+  344  ls -la
+  345  cat .git
+  346  cd .git
+  347  ls
+  348  cat config
+  349  pwd
+  350  cd ../../
+  351  ls
+  352  ls -la
+  353  cat .gitconfig
+  354  vi .gitconfig
+  355  ls -la
+  356  vi .gitignore
+  357  ls
+  358  ls -ls
+  359  ls -la
+  360  vi .gitignore
+  361  mv file3.txt file4.txt
+  362  git status
+  363  ls
+  364  git status
+  365  cd mydemo
+  366  ls 
+  367  cd mygit-demo
+  368  ls
+  369  cp firstfile.txt secondFile.txt
+  370  ls
+  371  cat secondFile.txt
+  372  git status
+  373  cd ../../
+  374  ls
+  375  ls -la
+  376  vi .gitignore
+  377  ls
+  378  cd mydemo
+  379  ls
+  380  cd mygit-demo
+  381  ls
+  382  git status
+  383  pwd
+  384  vi .gitignore
+  385  ls
+  386  git status
+  387  git add .gitignore
+  388  git status
+  389  pwd
+  390  ls
+  391  mkdir folder1
+  392  cd folder1
+  393  ls
+  394  pwd
+  395  touch file1.txt file2.txt file3.txt
+  396  git status
+  397  ls -la
+  398  ls -a
+  399  vi .gitignore
+  400  pwd
+  401  ls
+  402  cd .
+  403  ls
+  404  cd ../
+  405  pwd
+  406  ls -la
+  407  vi .gitignore
+  408  git status
+  409  git add .gitignore
+  410  git status
+  411  pwd
+  412  cd ../../
+  413  ls
+  414  cd myPracticsDirectory
+  415  ls
+  416  git pull origin master
+  417  git status
+  418  git commit 
+  419  git add myfile1.txt
+  420  git status
+  421  git commit -m "commitng the myfile1.txt"
+  422  ls
+  423  git status
+  424  git pull origin master
+  425  git push origin master
+  426  git push origin master
+  427  clear
+  428  pwd
+  429  ls
+  430  cat README.md
+  431  vi README.md
+  432  git pull origin master
+  433  git push origin master
+  434  pwd
+  435  cd ../../
+  436  pwd
+  437  cd home
+  438  ls
+  439  pwd
+  440  rm file4.txt
+  441  ls
+  442  git colne "https://github.com/manish485/NewRepo.git
+  443  git clone "https://github.com/manish485/NewRepo.git"
+  444  pwd
+  445  ls
+  446  cd NewRepo
+  447  ls
+  448  vi README.md
+  449  git status
+  450  git add README.md
+  451  git status
+  452  git commit -m "This is a commit for README.md file"
+  453  git push origin master
+  454  git pull origin master
+  455  git push origin master
+  456  git status
+  457  git status
+  458  git pull origin master
+  459  ls
+  460  cat README.md
+  461  ls
+  462  cat README.ms
+  463  vi README.ms
+  464  vi README.md
+  465  git diff
+  466  git status
+  467  clear
+  468  git status
+  469  git diff
+  470  git commit -m " We are commiting a chnages here"
+  471  git add README.md
+  472  git commit -m " We are commiting a chnages here"
+  473  git diff 
+  474  git status
+  475  ls
+  476  vi README.md
+  477  git status
+  478  git diff HEAD
+  479  git commit 
+  480  git add README.txt
+  481  git add README.md
+  482  git diff HEAD
+  483  git diff --staged HEAD
+  484  git commit -m "We are adding the discripation for the Web Project"
+  485  git diff --staged HEAD
+  486  exit
+  487  git config
+  488  clear
+  489  pwd
+  490  ls
+  491  cd NewRepo
+  492  ls
+  493  vi README.ms
+  494  vi README.md
+  495  ls
+  496  git status
+  497  echo "This is a simple file which is only created for the checking the status of git in dev">file1.txt
+  498  clear
+  499  git status
+  500  git add file1.txt
+  501  git status
+  502  git add README.txt
+  503  git add README.md
+  504  git status
+  505  clear
+  506  git diff -- README.md
+  507  git diff --README.md
+  508  git diff -- file1.txt
+  509  ls
+  510  cp file1.txt file2.txt
+  511  ls
+  512  git status
+  513  git  add file.txt
+  514  git add file2.txt
+  515  vi file2.txt
+  516  git diff -- file2.txt
+  517  git log -- oneline
+  518  clesr
+  519  clear
+  520  git log -- oneline
+  521  git log --graph --oneline
+  522  git status
+  523  git commit
+  524  git commit -m "Chnages for new file and  in README.md file"
+  525  git log -- graph
+  526  git log -- graph --oneline
+  527  git log -- graph -- oneline
+  528  git log --graph --oneline
+  529  git diff HEAD HEAD^
+  530  clear
+  531  git log --graph --oneline
+  532  git diff 42c215e 1ee76fc
+  533  git diff master origin/master
+  534  git pull origin master
+  535  git push origin master
+  536  git diff master origin/master
+  537  clear
+  538  git status
+  539  git add .
+  540  git status
+  541  git commit -m "New chnages in file2.txt"
+  542  git branch -a
+  543  git branch myNewBranch
+  544  git branch -a
+  545  git branch checkout  myNewBranch
+  546  git branch -a
+  547  git checkout myNewBranch
+  548  git branch -a
+  549  git history
+  550  history
+  551  history >>git_command.txt
