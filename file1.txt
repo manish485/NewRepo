@@ -1,2 +1,3 @@
 This is a simple file which is only created for the checking the status of git in dev
 We are changing in this file at assosiate branch of master branch
+I am adding a oneliner into this file  before rebase conflicts
